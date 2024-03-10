@@ -77,7 +77,7 @@ export type BotProps = {
   observersConfig?: observersConfigType;
 };
 
-const defaultWelcomeMessage = 'Bem vindo a Icarus Net, em que posso ajuda-lo hoje ?';
+const defaultWelcomeMessage = 'Bem vindo a Icarus Net, em que posso ajuda-lo hoje ? ';
 
 /*const sourceDocuments = [
     {
